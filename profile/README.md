@@ -1,6 +1,19 @@
-## Hi there 👋
+## Europlanet-GMAP public repositories
+
+#### Data analysis tools & notebooks
+
+- [BasemappingUtils](https://github.com/europlanet-gmap/BasemappingUtils)
+- [HyperspectralData-Notebook](https://github.com/europlanet-gmap/HyperspectralData-Notebook)
+- [PyISIS-Parallel](https://github.com/europlanet-gmap/PyISIS-Parallel)
+- [ImageProcessingUtils](https://github.com/europlanet-gmap/ImageProcessingUtils)
+
+#### Reproducible infrastructure & containers
+
+- [Docker-ISIS](https://github.com/europlanet-gmap/docker-isis3)
+
 
 <!--
+* If you want to use emojis, here is a list: https://emojis.github.io/
 
 **Here are some ideas to get you started:**
 
