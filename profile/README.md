@@ -1,4 +1,4 @@
-## Europlanet-GMAP public repositories
+## Welcome to Europlanet-GMAP' public repositories
 
 #### Data analysis tools & notebooks
 
