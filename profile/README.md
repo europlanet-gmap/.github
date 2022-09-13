@@ -2,6 +2,7 @@
 
 #### Data analysis tools & notebooks
 
+- [Exemplary notebooks](https://github.com/europlanet-gmap/exemplary-notebooks)
 - [BasemappingUtils](https://github.com/europlanet-gmap/BasemappingUtils)
 - [HyperspectralData-Notebook](https://github.com/europlanet-gmap/HyperspectralData-Notebook)
 - [PyISIS-Parallel](https://github.com/europlanet-gmap/PyISIS-Parallel)
