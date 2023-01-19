@@ -5,7 +5,7 @@
 - [Exemplary notebooks](https://github.com/europlanet-gmap/exemplary-notebooks)
 - [BasemappingUtils](https://github.com/europlanet-gmap/BasemappingUtils)
 - [HyperspectralData-Notebook](https://github.com/europlanet-gmap/HyperspectralData-Notebook)
-- [PlanetaryDataProcessing](https://github.com/europlanet-gmap/PlaneteryDataProcessing)
+- [PlaneteryDataUtils](https://github.com/europlanet-gmap/PlaneteryDataUtils)
 - [ImageProcessingUtils](https://github.com/europlanet-gmap/ImageProcessingUtils)
 
 #### Reproducible infrastructure & containers
