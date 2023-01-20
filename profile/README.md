@@ -1,5 +1,8 @@
 ## Welcome to Europlanet-GMAP' public repositories
 
+#### 2023 GMAP Winter School
+- [2023 winter school companion repository](https://github.com/europlanet-gmap/winter-school-2023)
+
 #### Data analysis tools & notebooks
 
 - [Exemplary notebooks](https://github.com/europlanet-gmap/exemplary-notebooks)
