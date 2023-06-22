@@ -2,6 +2,7 @@
 
 #### 2023 GMAP Winter School
 - [2023 Winter School companion repository](https://github.com/europlanet-gmap/winter-school-2023)
+- [ERIM 2023](https://github.com/europlanet-gmap/erim-2023)
 
 #### Data analysis tools & notebooks
 
