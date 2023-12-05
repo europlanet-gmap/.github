@@ -15,7 +15,8 @@
 
 #### Reproducible infrastructure & containers
 
-- [Docker-ISIS](https://github.com/europlanet-gmap/docker-isis3)
+- [Docker-ISIS](https://github.com/europlanet-gmap/docker-isis)
+- [Docker-JupyterHub](https://github.com/europlanet-gmap/docker-jupyterhub)
 
 
 <!--
