@@ -1,6 +1,7 @@
 ## Welcome to Europlanet-GMAP' public repositories
 
 #### GMAP Winter Schools & Workshops
+- [2026 Winter School companion repository](https://github.com/europlanet-gmap/winter-school-2026)
 - [2025 Winter School companion repository](https://github.com/europlanet-gmap/winter-school-2025)
 - [2024 Winter School companion repository](https://github.com/europlanet-gmap/winter-school-2024)
 - [2023 Winter School companion repository](https://github.com/europlanet-gmap/winter-school-2023)
